@@ -1,0 +1,7 @@
+{
+  "name": "newspaperui",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
